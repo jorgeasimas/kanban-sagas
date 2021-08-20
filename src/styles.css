@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  justify-content: center;
+  padding-top: 50px;
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
+h1 {
+  padding-left: 5vw;
+  color: rgb(113, 77, 211);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  size: 18px;
+}
+
+body {
+  background-image: url("https://images.pexels.com/photos/240040/pexels-photo-240040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
